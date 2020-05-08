@@ -12,10 +12,10 @@
 - <sup>Footnotes</sup> are at the bottom of the document.
 
 ## TOC:
-[<b>Act 1: Young Love</b>](#act-1-:-young-love)
+[<b>Act 1: Young Love</b>](#act-1---young-love)
 
-* [Scene 1 : Story Setup](#scene-1-:-story-setup)
-* [Scene 2 : Shiva's Bow](#scene-2-:-marriage)
+* [Scene 1 : Story Setup](#scene-1--story-setup)
+* [Scene 2 : Shiva's Bow](#scene-2--marriage)
 
 [Footnotes](#footnotes)
 
