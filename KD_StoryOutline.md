@@ -12,16 +12,18 @@
 - <sup>Footnotes</sup> are at the bottom of the document.
 
 ## TOC:
-<a href='#act-1'><b>Act 1: Young Love</b></a>
+[<b>Act 1: Young Love</b>](#act-1-:-young-love)
 
-* [Scene 1 - Valm., Luv, Kush || Story Setup](#a1-s1)
-* [Scene 2 - Shiva's Bow](#a1-s2)
+* [Scene 1 : Story Setup](#scene-1-:-story-setup)
+* [Scene 2 : Shiva's Bow](#scene-2-:-marriage)
+
+[Footnotes](#footnotes)
 
 ---
 
-### <u>ACT 1: Young Love</u> {#act-1}
+### Act 1 : Young Love
 
-#### SCENE 1 - Valmiki, Luv, Kusa || Story Setup {#a1-s1}
+#### SCENE 1 : Story Setup
 
 Valmiki, Luva and Kusa begins telling the story of Dasaratha. As they narrate,
 characters appear on stage (in the scenes below).
@@ -61,7 +63,7 @@ characters appear on stage (in the scenes below).
     Ahalya, a maiden stuck as a demon due to her sexual impurity.
 
 
-#### SCENE 2 - Shiva's Bow {#a1-s2}
+#### SCENE 2 : Marriage
 
   Viswamitra, Rama and Lakshmana arrive at Mithila.
 
