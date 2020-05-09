@@ -1,7 +1,10 @@
 # RAMAYANA - A King's Dharma
 ## A multi-media musical based upon Valmiki's *Ramayana*.
+Written by Zeezee Canning (zeezeeazc123)
 
-### Changelog
-05.05.2020 23:00 : Uploaded Act 3. Still some spelling mistakes. No continuity issues present so far. Intermission begins at the end of the Dandaka Hut scene (NOT the Vanaras).
+### Hello!
 
-05.06.2020 14:25 : Re-upload of Act 3. Fixed typos/spelling errors.
+#### Welcome to the *Treta Yuga*: the age before the End.
+
+##### In Prince Rama's humanistic world, Love isn't quite just, kings aren't always the ones in charge, and the fallacies of being human seem to push his life further into chaos.
+Love comes in many forms, and some are more important than others. Rama's success--as a King to his subjects, or as a Lover to his Wife--is up for him to decide: be the human hero he's always seen in himself, or to accept his Fate: to become the *Avatara* the rest of the humanity needs him to be.

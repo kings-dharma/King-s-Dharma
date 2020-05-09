@@ -3,13 +3,14 @@
 
 ## Notes:
 
-- `-[ 'A-Z' ]-` Indicates song / song order.
-- All songs are to reference <u>sentiment evoked</u> and are temporary placeholders.
+- `-'A,B,C...'-` Indicates the song's order.
+- All songs are to reference a *sentiment evoked* and are temporary placeholders.
 - `(1,2,3..)` Are scenes that run in parallel / simultaneously.
   - e.g. `(1) Rama walks on stage` and `(1) Sita sits in the corner` would happen simultaneously.
 - Scene transitions are written with technology / automation in mind.
 - Words in *italic* are sanskrit. See 'Pronounciation & Dictionary' document for further notes.
 - <sup>Footnotes</sup> are at the bottom of the document.
+- Intermission is at the end of Act 3.
 
 ## TOC:
 [<b>Act 1: Young Love</b>](#act-1---young-love)
@@ -39,7 +40,7 @@ characters appear on stage (in the scenes below).
   During the ceremony, Dasaratha gives each of his queens nectar from the Gods. However,
   Kausalya, gets more than the rest.
 
-    (*End Valmiki, Luva and Kusa story*)
+    (End Valmiki, Luva and Kusa story)
 
 * #### SCENE 1.ii.a - Life of Young Sita (parallel with Scn. 1.ii.b)
 
