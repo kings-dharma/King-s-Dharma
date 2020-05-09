@@ -19,7 +19,7 @@ Love comes in many forms, and some are more important than others. Rama's succes
 
 "The emotions that drive Valmiki to write the *Ramayana* are important. Each emotion finds itself in every character, fuels every action, and ultimately drives the Fate of our beloved heroes whose struggles uncannily mirror the challenges that we face today. **If we can understand Valmiki's intentions, we can better connect with the story itself.**
 
-"Although there have been a multitude of mutlimedia re-imaginings, from TV shows to movies, none fully capture Valmiki's intentions. **To do so, the audience must *experience* the story, not just imagine (or see) it.** Obviously, this is easier said than done. However, with the right technology (see below), interdisciplinary mindset, and some good-old creative problem-solving, we can create a unique, live experience--the mode Valmiki originally intended it to be.
+"Although there have been a multitude of multimedia re-imaginings, from TV shows to movies, none fully capture Valmiki's intentions. **To do so, the audience must *experience* the story, not just imagine (or see) it.** Obviously, this is easier said than done. However, with the right technology (see below), interdisciplinary mindset, and some good-old creative problem-solving, we can create a unique, live experience--the mode Valmiki originally intended it to be.
 
 As Valmiki has suggested, like Rama, we are living close to the End. It's time to experience timelessness--to see nine ghostly heads on stage, flying chariots, impossible spells, even live within a character's dream--and not just watch it."
 
