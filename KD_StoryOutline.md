@@ -15,18 +15,32 @@
 ## TOC:
  [//]: # (Not sure how anchors handle non-alphanumeric chars)
 
-[<b>Act 1: Young Love</b>](#act-1---young-love)
+[<b>Act 1: Young Love</b>](#act-1--young-love)
 
-* [Scene 1.1 : Story Setup](#scene-1-1---story-setup)
-* [Scene 1.2 : Shiva's Bow](#scene-1-2---marriage)
+* [Scene 1.1 : Story Setup](#scene-11--story-setup)
+* [Scene 1.2 : Shiva's Bow](#scene-12--marriage)
 
-[<b>Act 2: The Curse</b>](#act-2---the-curse)
+[<b>Act 2: The Curse</b>](#act-2--the-curse)
 
-* [Scene 2.1 : Kaikeyi's Lament](#scene-2-1---kaikeyi-s-lament)
-* [Scene 2.2 : Rama's Banishment](#scene-2-2---rama-s-banishment)
-* [Scene 2.3 : Rama, Sita, Lakshmana & Seers](#scene-2-3---rama-sita-lakshmana-seers)
+* [Scene 2.1 : Kaikeyi's Lament](#scene-21--kaikeyis-lament)
+* [Scene 2.2 : Rama's Banishment](#scene-22--ramas-banishment)
+* [Scene 2.3 : Rama, Sita, Lakshmana & Seers](#scene-23--rama-sita-lakshmana--seers)
 
-[<b>Act 3: Surpanakha's Tragedy</b>](#act-3---surpanakha-s-tragedy)
+[<b>Act 3: Surpanakha's Tragedy</b>](#act-3--surpanakhas-tragedy)
+
+* [Scene 3.1 : Rama's Dream](#scene-31--ramas-dream)
+* [Scene 3.2 : Sita's Abduction](#scene-32--sitas-abduction)
+
+[<b>Act 4: Love's War</b>](#act-4--loves-war)
+
+* [Scene 4.1 : Kyshatriya's Code](#scene-41--kyshatriyas-code)
+* [Scene 4.2 : Ravana's Defeat & King Rama](#scene-42--ravanas-defeat--king-rama)
+* [Scene 4.3 : Turning Blue](#scene-43--turning-blue)
+
+[<b>Act 5: Sacrifices</b>](#act-5--sacrifices)
+
+* [Scene 5.1 : Broken Family](#scene-51--broken-family)
+* [Scene 5.2 : Valmiki's Story](#scene-52--valmikis-story)
 
 [Footnotes](#footnotes)
 
@@ -117,7 +131,7 @@ Valmiki, Luva and Kusa begins telling the story of Dasaratha. As they narrate, c
 
 #### Scene 5.1 : Broken Family
 
-#### Scene 5.2 : Continuing Story
+#### Scene 5.2 : Valmiki's Story
 
 ---
 
