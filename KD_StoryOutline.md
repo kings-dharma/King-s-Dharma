@@ -116,7 +116,7 @@ Valmiki, Luva and Kusa begins telling the story of Dasaratha. As they narrate, c
 
   (1) While Lakshmana grabs food, Rama tells Sita a (unknowningly) true story.
 
-  (2) Rama and Sita interlude: Sita sees parallels in Rama's story and hers. Rama continues his narration.
+  (2) Rama and Sita interlude: Sita sees parallels in Rama's story and their own. Rama continues his narration.
 
 - ##### SCENE 3.1.ii - Young Surpanakha
 
@@ -138,7 +138,7 @@ Valmiki, Luva and Kusa begins telling the story of Dasaratha. As they narrate, c
 
 - ##### SCENE 3.2.i - Young Ravana
 
-  (3) Inadvertently following Surpanakha's path, Young Ravana wanders from town to town, deep in his books, attempting to learn weaponry, chants and dances to Shiva, among others.<sup>2</sup> People frown upon him for trying to be a Man when he is born as an *rakshasa*.
+  (3) Inadvertently following Surpanakha's path, Young Ravana wanders from town to town, deep in his books, attempting to learn weaponry, chants and dances to Shiva, among others.<sup>2</sup> People frown upon him for trying to be a Man when he is born as a *rakshasa*.
 
   Eventually, Ravana ages into a self-made Emperor. He walks up to a weeping Surpanakha on the floor of his court room.
 
@@ -197,4 +197,4 @@ Valmiki, Luva and Kusa begins telling the story of Dasaratha. As they narrate, c
 
 <sup>2</sup> <sub>We are back in the past</sub>
 
-<sup>3</sup> <sub>Plays like poker. In ancient Indian litearture, gambling and Fate are seen as 'intertwined'.</sub>
+<sup>3</sup> <sub>Plays like poker. In ancient Indian literature, gambling and Fate can be seen as 'intertwined'.</sub>
