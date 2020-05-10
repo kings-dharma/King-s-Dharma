@@ -62,7 +62,7 @@ Valmiki, Luva and Kusa begins telling the story of Dasaratha. As they narrate, c
 
   (End Valmiki, Luva and Kusa story)
 
-* #### SCENE 1.1.ii.a - Life of Young Sita (parallel with Scn. 1.ii.b)
+* #### SCENE 1.1.ii.a - Life of Young Sita
 
   While visiting among his farmers, Janaka comes across Sita, a baby left in a furrow. Janaka is astounded, and it is clear that he has been looking for a girl; Sita reminds him of his wife.
 
@@ -70,7 +70,7 @@ Valmiki, Luva and Kusa begins telling the story of Dasaratha. As they narrate, c
 
   (3) In response, Janaka promises to find her a suitor not for his looks, but for his character. They both agree upon a special *swayamvara*.
 
-* #### SCENE 1.1.ii.b - Life of Young Rama (parallel with Scn. 1.ii.a)
+* #### SCENE 1.1.ii.b - Life of Young Rama
 
   (2) Flash forward, and the four boys are in their early teens. Dasaratha looks to Rama, the eldest, as he would be the *yuvaraja*. (<u>-A- "My St. Petersburg"</u>)<sup>1</sup>
 
@@ -142,13 +142,13 @@ Valmiki, Luva and Kusa begins telling the story of Dasaratha. As they narrate, c
 
   Eventually, Ravana ages into a self-made Emperor. He walks up to a weeping Surpanakha on the floor of his court room.
 
-- #### SCENE 3.2.ii - Surpanakha & Ravana Plot
+- ##### SCENE 3.2.ii - Surpanakha & Ravana Plot
 
   Ravana dismisses his ministers and helps Surpanakha to his throne. She tells him about her new-found hatred towards the *kyshatriyas*. She talks about Sita and her perfect life (-?- TBD).
 
   Both Ravana and Surpanakha plan to take Sita; Rama has the power Ravana wants, and in her envy, Surpankha wants Rama to herself, even though she knows it's not to be.
 
-- ##### SCENE 3.2.ii - Rama's Wrath
+- ##### SCENE 3.2.iii - Rama's Wrath
 
   Back at the Dandaka Hut, Rama and Lakshmana play dice.<sup>3</sup> Lakshmana sees a deer that he thinks is Mira. It is not Sita's friend, but she wants Rama to capture it anyways, as it is decievingly gold. To decide, Rama turns to the dice: if the results are doubles, then he will go after the elusive deer. He rolls a snake-eyes. Rama runs after the deer.
 
@@ -196,3 +196,5 @@ Valmiki, Luva and Kusa begins telling the story of Dasaratha. As they narrate, c
 <sup>1</sup> <sub>'Mashup' of two songs.</sub>
 
 <sup>2</sup> <sub>We are back in the past</sub>
+
+<sup>3</sup> <sub>Plays like poker. In ancient Indian litearture, gambling and Fate are seen as 'intertwined'.</sub>
