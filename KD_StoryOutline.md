@@ -8,7 +8,7 @@
 - `(1,2,3..)` Are scenes that run in parallel / simultaneously.
   - e.g. `(1) Rama walks on stage` and `(1) Sita sits in the corner` would happen simultaneously.
 - Scene transitions are written with technology / automation in mind.
-- Words in *italic* are sanskrit. See 'Pronounciation & Dictionary' document for further notes.
+- Words in *italic* are Sanskrit. See 'Pronunciation & Dictionary' document for further notes.
 - <sup>Footnotes</sup> are at the bottom of the document.
 - Intermission is at the end of Act 3.
 - [ ] Check boxes indicate if *first pass* is completed.
@@ -17,13 +17,13 @@
 [<b>Act 1: Young Love</b>](#act-1--young-love)
 
 - [ ] [Scene 1.1 : Story Setup](#scene-11--story-setup)
-- [ ] [Scene 1.2 : Shiva's Bow](#scene-12--marriage)
+- [x] [Scene 1.2 : Shiva's Bow](#scene-12--marriage)
 
 [<b>Act 2: The Curse</b>](#act-2--the-curse)
 
-- [ ] [Scene 2.1 : Kaikeyi's Lament](#scene-21--kaikeyis-lament)
-- [ ] [Scene 2.2 : Rama's Banishment](#scene-22--ramas-banishment)
-- [ ] [Scene 2.3 : Rama, Sita, Lakshmana & Seers](#scene-23--rama-sita-lakshmana--seers)
+- [x] [Scene 2.1 : Kaikeyi's Lament](#scene-21--kaikeyis-lament)
+- [x] [Scene 2.2 : Rama's Banishment](#scene-22--ramas-banishment)
+- [x] [Scene 2.3 : Rama, Sita, Lakshmana & Seers](#scene-23--rama-sita-lakshmana--seers)
 
 [<b>Act 3: Surpanakha's Tragedy</b>](#act-3--surpanakhas-tragedy)
 
