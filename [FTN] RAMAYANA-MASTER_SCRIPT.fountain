@@ -16,7 +16,7 @@ EXT. FOREST / RIVERBANK
 
 A king, dressed in simple archery wear, runs alone through the dark forest, blindfolded with an elegant bow in his blue hand. Surrounding him are the all encompassing sounds of forest life. Eventually, he stops at the sound of two birds singing and of rushing water. The king stands in front of a magestic river. Two birds are mating in a nearby tree.
 
-Suddenly, all background noise is quiet. Just the king and the birds remain. The king draws his bow, and in one swift movement, he releases the arrow into the  male bird.
+Suddenly, all background noise is quiet. Just the king and the birds remain. The king draws his bow, and in one swift movement, he releases the arrow into the male bird.
 
 Simultaneously...
 
@@ -153,7 +153,10 @@ SITA
 RAMA
 ~LOOK DOWN!
 
-SITA / RAMA
+SITA
+~HEAR MY PRAYER 
+
+ RAMA^
 ~HEAR MY PRAYER
 
 RAMA
@@ -162,7 +165,11 @@ RAMA
 SITA
 ~AND THEN FORGET ME!
 
-SITA / RAMA
+SITA
+~OH GOD, DEAR GOD, 
+~LET ME FLY! 
+
+RAMA^
 ~OH GOD, DEAR GOD,
 ~LET ME FLY!
 
@@ -178,7 +185,11 @@ RAMA
 SITA / COMPANY
 ~....WAITING!
 
-SITA / RAMA
+SITA
+~WAITING FOR LIFE TO BEGIN!
+~WAITING FOR LIFE TO BEGIN!
+
+ RAMA^
 ~WAITING FOR LIFE TO BEGIN!
 ~WAITING FOR LIFE TO BEGIN!
 
@@ -754,6 +765,7 @@ This is unacceptable! Rama is the rightful heir to the throne. Bharata will agre
 
 RAMA
 Done. I just wish you would have been more thoughtful about Father.
+/* As you wish. */ 
 
 Rama leads Dasaratha to the open window. 
 
@@ -819,7 +831,7 @@ It could be... well, I don't want to pretend I know what the Devas are thinking.
 RAMA
 That's probably for the best.
 (to Dasaratha)
-Come, Father, let's find somehwere for you to rest.
+Come, Father, let's find somewhere for you to rest.
 
 Rama and Dasaratha leave.
 
@@ -870,9 +882,11 @@ LAKSHMANA
 ~RAMA, A DEVA JUST WALKING ABOUT!
 ~A MAN WE'VE LIVED WITH FOR OUR ENTIRE LIVES NOW,
 
-SITA / LAKSHMANA
+SITA
 ~IS OF A DEVA'S DESIGN!
 
+LAKSHMANA^ 
+~IS OF A DEVA'S DESIGN!
 .END ACT 2.
 
 ===
@@ -1481,7 +1495,7 @@ Sita! Lakshmana! Help me!
 (attempting to save the woman)
 No, no,  stay with me. My brother Lakshmana will come to help us. He always carries herbs with him, and Sita will bring water.
 
-As Rama is per-occupied with tending the wound, the woman suddenly brings Rama for a kiss but can't bring herself to close the gap. Rama realizes who it is.
+As Rama is preoccupied with tending the wound, the woman suddenly brings Rama for a kiss but can't bring herself to close the gap. Rama realizes who it is.
 
 SURPANAKHA
 I'm so sorry, Rama. Save her. Ravana in his flying chariot-- Save her, please!
@@ -1758,8 +1772,6 @@ Vali must be killed. That is the only way.
 RAMA
 Done.
 
-  
-
 INT. KISHKINDA PALACE
 
 (Hanuman has just returned with news of Sita.)
@@ -1851,7 +1863,10 @@ HANUMAN
 ~IF I COULD TELL HIM,
 ~HOW HE'S EVERYTHING TO ME.
 
-HANUMAN / RAMA
+HANUMAN
+~BUT WE'RE A MILLION WORLDS APART.
+
+RAMA^ 
 ~BUT WE'RE A MILLION WORLDS APART.
 
 HANUMAN
